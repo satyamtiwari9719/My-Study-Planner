@@ -34,7 +34,7 @@ Download the latest APK:
 
 ## 📸 Screenshots
 
-Screenshots will be added soon.
+![My Study Planner Dashboard](./WhatsApp Image 2026-09-07 at 6.19.52 PM.jpeg)
 
 ## 👨‍💻 Developer
 
