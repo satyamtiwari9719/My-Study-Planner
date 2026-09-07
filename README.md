@@ -13,7 +13,7 @@ My Study Planner is a simple and useful study planning application designed to h
 
 ## 📱 Download
 
-Download the latest APK:
+[⬇️ Download My Study Planner APK](https://github.com/satyamtiwari9719/My-Study-Planner/raw/refs/heads/main/app-debug.apk)
 
 👉 [Download My Study Planner APK](https://github.com/satyamtiwari9719/My-Study-Planner/raw/refs/heads/main/app-debug.apk)
 
